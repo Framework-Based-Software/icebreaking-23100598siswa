@@ -3,7 +3,7 @@
 Hi! I'm Lee Kei Kar, a student in the Framework-Based Software Design and Development course. 
 I expect to learn how to use software frameworks to build scalable and maintainable applications. I’ll explore design patterns, modular development, and best practices for integrating frameworks into real-world projects. Additionally, I expect to learn a lot about modern software maintenance practices and how to work with legacy systems.
 
-![My Image](image.jpg)  <!-- Link to the uploaded image -->
+![My Image]IMG_2432.JPG  <!-- Link to the uploaded image -->
 
 ## GitHub Profile
 
