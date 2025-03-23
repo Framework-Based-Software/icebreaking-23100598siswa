@@ -7,5 +7,5 @@ I expect to learn how to use software frameworks to build scalable and maintaina
 
 ## GitHub Profile
 
-You can view my personalized GitHub profile [here, insert link to your github profile]
+You can view my personalized GitHub profile https://github.com/23100598siswa.
 
